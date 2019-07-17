@@ -1,4 +1,5 @@
 # iTunes Light
+![screenshot](./client/screenshot.png)
 
 ## Description
 iTunes Light is a web application wrapper for the iTunes Search API. iTunes Light provides a client side application allowing users to easily search through iTunes catalog and automatically filters results by media type. Another feature is the ability to store your favorite items. This feature utilizes local storage, allowing for persistence (until local storage is cleared out).
