@@ -6,7 +6,8 @@ iTunes Light is a web application wrapper for the iTunes Search API. iTunes Ligh
 ## Install
 1. Clone the repo onto your system
 2. cd into `/iTunesLightCatalog/server'
-3. run the command `node server.js` to start our server
+3. run `npm install` to install dependencies
+3. run the command `npm start` to start our server
 
 ## Usage
 1. access the client side application at `localhost:8080/`
