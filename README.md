@@ -11,7 +11,7 @@ Demo is launched on an AWS EC2 instance running a Node server
 
 ## Install
 1. Clone the repo onto your system
-2. cd into `/iTunesLightCatalog/server'
+2. cd into `/iTunesLightCatalog/server`
 3. run `npm install` to install dependencies
 3. run the command `npm start` to start our server
 
